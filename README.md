@@ -12,6 +12,11 @@ You will be able to:
 - Train the classifier with a training dataset and evaluate performance using different measures
 - Visualize the decision tree and interpret the visualization
 
+
+```python
+# add some changes
+```
+
 ## Import Necessary Libraries
 
 In order to prepare data, train, evaluate and visualize a decision tree , we would need a number of packages in python. Here are the packages that you would normally consider importing before moving on.
@@ -340,7 +345,7 @@ Image(graph.create_png())
 
 
 
-![png](index_files/index_15_0.png)
+![png](index_files/index_16_0.png)
 
 
 
@@ -361,7 +366,7 @@ Image(graph.create_png())
 
 
 
-![png](index_files/index_17_0.png)
+![png](index_files/index_18_0.png)
 
 
 
